@@ -1,1 +1,1 @@
-Visit the webpage : https://purpamir.github.io/PurpleCouch
+Visit the webpage : https://purpamir.github.io/purpleCouch
